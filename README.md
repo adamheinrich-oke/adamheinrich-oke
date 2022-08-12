@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there, I'm Adam 👋
 
-<!--
-**adamheinrich-oke/adamheinrich-oke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Github stats.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![AdamHeinrich's github stats](https://github-readme-stats.vercel.app/api?username=adamheinrich-oke&theme=great-gatsby&show_icons=true)](https://github.com/adamheinrich-oke)
+
+### Connect with me:
+
+[<img align="left" alt="AdamHeinrich | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+### Languages :
+<img align="left" alt="Kotlin" width="40px" src="https://user-images.githubusercontent.com/58732951/123423005-48b19700-d5bf-11eb-8701-df541d40f255.png" />
+<img align="left" alt="Java" width="40px" src="https://user-images.githubusercontent.com/58732951/123422203-24a18600-d5be-11eb-93d0-cfbd687e3f54.png" />
+<img align="left" alt="Python" width="40px" src="https://user-images.githubusercontent.com/58732951/123422737-e9ec1d80-d5be-11eb-964f-4277934035fa.png" />
+<br />
+<br />
+
+### Tools :
+
+<img align="left" alt="Kotlin" width="50px" src="https://user-images.githubusercontent.com/90184277/184370028-a18d98a8-d1ca-42dc-a3af-9bbc0db575c5.png"/>
+<img align="left" alt="Flask" width="40px" src="https://user-images.githubusercontent.com/58732951/123423954-7b0fc400-d5c0-11eb-9dc1-32002172261f.png"/>
+
+
+[linkedin]: https://www.linkedin.com/in/adam-heinrich-89034413b/
